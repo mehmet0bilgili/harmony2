@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351966921064",
+    "project_id": "harmony2-12f62",
+    "storage_bucket": "harmony2-12f62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351966921064:android:7efcc0a7182307e0bd56dd",
+        "android_client_info": {
+          "package_name": "com.example.harmony2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQB2WqXyTB2ZB4jtcTIcsauA1MY89wCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
